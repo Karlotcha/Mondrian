@@ -1,7 +1,7 @@
 ******************************************************************************************
 Hoa Karlotcha
 
-Mondriaan’s Victory Boogie-like Generator 
+Mondriaanâ€™s Victory Boogie-like Generator 
 
 2013-03-05
 ******************************************************************************************
@@ -45,11 +45,11 @@ These functions use extensively a random number generator to agglutinate the cel
 a random number to a fix number (used as a "probability" - I only used integers so it is not 
 real probabilities), the functions decide to continue to "propagate" or not. 
 These 3 functions use a lot of different parameters to adjust the patterns to be comparable to 
-Mondriaan’s Victory Boogie. 
+Mondriaanâ€™s Victory Boogie. 
 
 'draw' is a function to draw the different rectangles (and is called by propagations functions). 
 I used again some random number generation to decide which color to pick in a set a few colors 
-I get from the picture of Mondriaan’s Victory Boogie. 'draw' is also managing the animation for 
+I get from the picture of Mondriaanâ€™s Victory Boogie. 'draw' is also managing the animation for 
 the first 5 seconds. 
 
 Finally, I hide each angle of the whole creation with 4 triangles (I called this step "finish move"). 
