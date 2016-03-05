@@ -1,16 +1,13 @@
 ******************************************************************************************
 Hoa Karlotcha
 
-Mondriaan’s Victory Boogie-like Generator 
+Mondriaan’s Victory Boogie-like Generator - entry for http://www.elegant.setup.nl/
 
 2013-03-05
 ******************************************************************************************
 
+## How to use it? 
 
-
-******************************************************************************************
-HOW TO USE IT? 
-******************************************************************************************
 I only used web technologies: open "open_me.html" in your favorite web browser (it 
 is much better on GOOGLE CHROME though) to see it! 
 
@@ -23,9 +20,8 @@ image.
 You can also see it on my blog: 
 http://karlotcha.herokuapp.com/blog/2013/02/12/mondrian-returns/
 
-******************************************************************************************
-HOW DOES IT WORK ? 
-******************************************************************************************
+## How does it work? 
+
 I did it in Javascript and used two libraries: jQuery (a common library to write nice 
 Javascript) and D3.js to manage the display.
 
